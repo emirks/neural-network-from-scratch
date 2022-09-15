@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+
+*.pt
+*.gz
+*.npz
+*.csv
+*-ubyte
